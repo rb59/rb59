@@ -32,13 +32,10 @@ I'm currently looking for work as junior dev or freelancer :memo:
 
 ## Social Media
 
-[Gmail](Mailto:ronaldblanco509@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/ronald-blanco-62bba718b/)
-
-[Twitter](https://twitter.com/ronaldb4)
-
-[Instagram](https://www.instagram.com/ronaldb4/)
+- [Gmail](Mailto:ronaldblanco509@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ronald-blanco-62bba718b/)
+- [Twitter](https://twitter.com/ronaldb4)
+- [Instagram](https://www.instagram.com/ronaldb4/)
 
 <!--
 **rb59/rb59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
