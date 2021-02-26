@@ -33,7 +33,7 @@ I'm currently looking for work as junior dev or freelancer :memo:
 ## Social Media
 
 - [Gmail](Mailto:ronaldblanco509@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ronald-blanco-62bba718b/)
+- [LinkedIn](https://www.linkedin.com/in/ronald-blanco-509/)
 - [Twitter](https://twitter.com/ronaldb4)
 - [Instagram](https://www.instagram.com/ronaldb4/)
 
