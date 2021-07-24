@@ -16,6 +16,7 @@ I'm currently looking for work as junior dev or freelancer :memo:
 
 ### Frameworks
 
+- React
 - Laravel
 - Vue
 - Tailwind
